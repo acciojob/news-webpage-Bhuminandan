@@ -66,3 +66,7 @@ body{
 .Body-div img{
     padding: 10px;
 }
+
+.latest-news-section ul{
+   text-align: center;
+}
